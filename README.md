@@ -1,5 +1,5 @@
 # About Me
-I'm Currently working as a full stack developer at Redev
+I'm currently working as a full stack developer at Redev
 
 # Stats
 [![](https://raw.githubusercontent.com/illuminat3/illuminat3/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

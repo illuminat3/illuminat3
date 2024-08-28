@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/illuminat3/illuminat3/master/profile-summary-card-output/darcula/4-productive-time.svg)
-```
-
-    

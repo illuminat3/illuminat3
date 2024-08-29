@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/illuminat3/illuminat3/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    

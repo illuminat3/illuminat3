@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/illuminat3/illuminat3/master/profile-summary-card-output/algolia/4-productive-time.svg)
+```
+
+    

@@ -3,7 +3,6 @@
 ## About Me
 
 [![Job SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;)](https://git.io/typing-svg)  
-[![Open To Work SVG](https://readme-typing-svg.demolab.com/?lines=Open+To+Work!;)](https://git.io/typing-svg)
 
 ## Stats
 
